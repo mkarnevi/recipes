@@ -5,7 +5,7 @@ tags:
   - Sorted
   - Quick
   - Tested
-  - Serves 2
+  - Serves 4
 ---
 
 # Pancetta pasta e ceci
