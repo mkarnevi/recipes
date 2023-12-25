@@ -5,11 +5,10 @@ tags:
   - Sorted
   - Quick
   - Tested
+  - Serves 2
 ---
 
 # Pancetta pasta e ceci
-
-Serves 2
 
 ## Ingredients
 

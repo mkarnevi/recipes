@@ -4,11 +4,10 @@ tags:
   - ICA
   - Medium
   - Untested
+  - Serves 4
 ---
 
 # Pear cobbler
-
-Serves 4
 
 ## Ingredients
 
